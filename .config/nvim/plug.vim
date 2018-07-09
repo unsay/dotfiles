@@ -5,6 +5,7 @@ Plug 'scrooloose/syntastic'
 Plug 'sheerun/vim-polyglot'
 " Source Control ---------------------------------------------------------------
 Plug 'tpope/vim-fugitive'
+Plug 'mhinz/vim-signify'
 " Navigation -------------------------------------------------------------------
 Plug 'Shougo/denite.nvim'
 " Pretty -----------------------------------------------------------------------
