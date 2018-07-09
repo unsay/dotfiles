@@ -1,4 +1,5 @@
 source plug.vim
+source airline.vim
 
 " Files ------------------------------------------------------------------------
 set nobackup   " do not keep a backup file
@@ -28,5 +29,6 @@ call denite#custom#var('file/rec', 'command',
       \ ['rg', '--files', '--glob', '!.git'])
 
 syntax on
+set termguicolors
 set background=dark
 color gruvbox
