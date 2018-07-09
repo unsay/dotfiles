@@ -9,4 +9,5 @@ Plug 'tpope/vim-fugitive'
 Plug 'Shougo/denite.nvim'
 " Pretty -----------------------------------------------------------------------
 Plug 'vim-airline/vim-airline'
+Plug 'morhetz/gruvbox'
 call plug#end()
