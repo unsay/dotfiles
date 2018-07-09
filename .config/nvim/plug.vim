@@ -7,4 +7,6 @@ Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-fugitive'
 " Navigation -------------------------------------------------------------------
 Plug 'Shougo/denite.nvim'
+" Pretty -----------------------------------------------------------------------
+Plug 'vim-airline/vim-airline'
 call plug#end()
