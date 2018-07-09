@@ -1,5 +1,6 @@
 call plug#begin('~/.local/share/nvim/plugged')
 " Syntax -----------------------------------------------------------------------
+Plug 'editorconfig/editorconfig-vim'
 Plug 'scrooloose/syntastic'
 Plug 'sheerun/vim-polyglot'
 " Source Control ---------------------------------------------------------------
