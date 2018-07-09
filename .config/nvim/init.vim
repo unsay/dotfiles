@@ -1,5 +1,5 @@
-source plug.vim
-source airline.vim
+source ~/.config/nvim/plug.vim
+source ~/.config/nvim/airline.vim
 
 " Files ------------------------------------------------------------------------
 set nobackup   " do not keep a backup file
